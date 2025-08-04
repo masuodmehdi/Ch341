@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android" android:orientation="vertical" android:layout_width="match_parent" android:layout_height="match_parent">
+    <TextView android:id="@+id/baud" android:layout_width="wrap_content" android:layout_height="wrap_content" android:text="BaudRate"/>
+    <Spinner android:entries="@array/baudrate_arrays" android:id="@+id/spinner1" android:layout_width="match_parent" android:layout_height="wrap_content" android:prompt="@string/baudrate_prompt"/>
+    <TextView android:id="@+id/databit" android:layout_width="wrap_content" android:layout_height="wrap_content" android:text="DataBits"/>
+    <Spinner android:entries="@array/databit_arrays" android:id="@+id/spinner2" android:layout_width="match_parent" android:layout_height="wrap_content" android:prompt="@string/databit_prompt"/>
+    <TextView android:id="@+id/parity" android:layout_width="wrap_content" android:layout_height="wrap_content" android:text="Parity"/>
+    <Spinner android:entries="@array/parity_arrays" android:id="@+id/spinner3" android:layout_width="match_parent" android:layout_height="wrap_content" android:prompt="@string/parity_prompt"/>
+    <TextView android:id="@+id/stopbit" android:layout_width="wrap_content" android:layout_height="wrap_content" android:text="StopBits"/>
+    <Spinner android:entries="@array/stopbit_arrays" android:id="@+id/spinner4" android:layout_width="match_parent" android:layout_height="wrap_content" android:prompt="@string/stopbit_prompt"/>
+    <TextView android:id="@+id/flow" android:layout_width="wrap_content" android:layout_height="wrap_content" android:text="FlowControl"/>
+    <Spinner android:entries="@array/flow_arrays" android:id="@+id/spinner5" android:layout_width="match_parent" android:layout_height="wrap_content" android:prompt="@string/flow_prompt"/>
+    <TextView android:id="@+id/display" android:layout_width="wrap_content" android:layout_height="wrap_content" android:text="DisplayFormat"/>
+    <Spinner android:entries="@array/display_arrays" android:id="@+id/spinner6" android:layout_width="match_parent" android:layout_height="wrap_content" android:prompt="@string/display_prompt"/>
+</LinearLayout>

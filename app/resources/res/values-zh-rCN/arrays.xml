@@ -1,0 +1,43 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <array name="baudrate_arrays">
+        <item>2400</item>
+        <item>4800</item>
+        <item>9600</item>
+        <item>14400</item>
+        <item>38400</item>
+        <item>57600</item>
+        <item>115200</item>
+        <item>128000</item>
+        <item>153600</item>
+        <item>230400</item>
+        <item>460800</item>
+        <item>921600</item>
+        <item>1500000</item>
+        <item>2000000</item>
+    </array>
+    <array name="databit_arrays">
+        <item>5</item>
+        <item>6</item>
+        <item>7</item>
+        <item>8</item>
+    </array>
+    <array name="parity_arrays">
+        <item>odd</item>
+        <item>even</item>
+        <item>none</item>
+    </array>
+    <array name="stopbit_arrays">
+        <item>1</item>
+        <item>2</item>
+    </array>
+    <array name="flow_arrays">
+        <item>none</item>
+        <item>RTS/CTS</item>
+    </array>
+    <array name="display_arrays">
+        <item>Hex</item>
+        <item>Ascii</item>
+        <item>Modbus</item>
+    </array>
+</resources>

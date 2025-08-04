@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android" android:orientation="vertical" android:layout_width="match_parent" android:layout_height="match_parent">
+    <LinearLayout android:orientation="horizontal" android:layout_width="match_parent" android:layout_height="wrap_content">
+        <TextView android:textSize="40sp" android:layout_width="wrap_content" android:layout_height="wrap_content" android:text="@string/Temper"/>
+        <TextView android:textSize="40sp" android:id="@+id/Temp_textView1" android:layout_width="wrap_content" android:layout_height="wrap_content"/>
+    </LinearLayout>
+    <LinearLayout android:orientation="horizontal" android:layout_width="match_parent" android:layout_height="wrap_content">
+        <TextView android:textSize="20sp" android:layout_width="wrap_content" android:layout_height="wrap_content" android:text="@string/Emissivity"/>
+        <EditText android:id="@+id/Temp_edittext" android:layout_width="match_parent" android:layout_height="wrap_content" android:text="0.99" android:inputType="numberDecimal"/>
+    </LinearLayout>
+    <LinearLayout android:orientation="horizontal" android:layout_width="match_parent" android:layout_height="wrap_content">
+        <TextView android:textSize="40sp" android:layout_width="wrap_content" android:layout_height="wrap_content" android:text="@string/CorrectTemper"/>
+        <TextView android:textSize="40sp" android:id="@+id/Temp_textView2" android:layout_width="wrap_content" android:layout_height="wrap_content"/>
+    </LinearLayout>
+    <LinearLayout android:orientation="horizontal" android:layout_width="match_parent" android:layout_height="wrap_content">
+        <Button android:id="@+id/Temp_button1" android:layout_width="wrap_content" android:layout_height="wrap_content" android:text="@string/Refresh"/>
+        <Button android:id="@+id/Temp_button2" android:layout_width="wrap_content" android:layout_height="wrap_content" android:text="@string/Unit"/>
+        <Button android:id="@+id/Temp_button3" android:layout_width="wrap_content" android:layout_height="wrap_content" android:text="@string/Laser"/>
+    </LinearLayout>
+</LinearLayout>

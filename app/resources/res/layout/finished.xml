@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android" android:orientation="vertical" android:layout_width="match_parent" android:layout_height="match_parent">
+    <TextView android:textSize="20sp" android:layout_width="wrap_content" android:layout_height="wrap_content" android:text="Write Status"/>
+    <TextView android:textSize="20sp" android:id="@+id/Finish_status" android:layout_width="wrap_content" android:layout_height="wrap_content" android:text=""/>
+    <TableLayout android:layout_width="match_parent" android:layout_height="match_parent">
+        <TableRow>
+            <Button android:id="@+id/Finish_verify" android:layout_width="wrap_content" android:layout_height="wrap_content" android:text="Verify" android:hint=""/>
+            <Button android:id="@+id/Finish_again" android:layout_width="wrap_content" android:layout_height="wrap_content" android:text="Write again" android:hint=""/>
+            <Button android:id="@+id/Finish_exit" android:layout_width="wrap_content" android:layout_height="wrap_content" android:text="Exit" android:hint=""/>
+        </TableRow>
+    </TableLayout>
+</LinearLayout>

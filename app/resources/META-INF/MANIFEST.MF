@@ -1,0 +1,81 @@
+Manifest-Version: 1.0
+Created-By: 1.0 (Android)
+
+Name: res/layout/setup.xml
+SHA1-Digest: 1I3raSNtp267cmeVT9abEmDBOOk=
+
+Name: res/layout/destfile.xml
+SHA1-Digest: +z9qk5rKhCYoEx0ir9zc7X9P0u4=
+
+Name: res/layout/procedure1.xml
+SHA1-Digest: /6IgenB6GdyKDridaZbyKaVCVEM=
+
+Name: res/layout/ic24xx_series.xml
+SHA1-Digest: ZOjAuDhymFtk2KnKbtglE9CK8bY=
+
+Name: res/layout/sourcefile.xml
+SHA1-Digest: ySbJr1Z5l+nHeZkrsSRJMLZisQY=
+
+Name: resources.arsc
+SHA1-Digest: LgHIGnl1PibzqIIc4wxHY6afDMM=
+
+Name: res/drawable-mdpi/ship2_3.png
+SHA1-Digest: KKEmUluhhWGfX6HO80z9KH/69LI=
+
+Name: res/layout/finished.xml
+SHA1-Digest: KH142kbEuyyq9dlTDiV5Yo7ZFKY=
+
+Name: res/layout/temperature.xml
+SHA1-Digest: x0Pco87hA9ODBiJKr2X/SUTqn7A=
+
+Name: AndroidManifest.xml
+SHA1-Digest: pfb9QdUeBhg+Pt4v3vnJ27PjXzg=
+
+Name: res/layout/dialoghex.xml
+SHA1-Digest: Kr+I5uOWgUQKVXcwJKi3p+YRAZU=
+
+Name: res/layout/summarize.xml
+SHA1-Digest: F6fw36TLufujqE+6MBE/GufWDwc=
+
+Name: res/xml/device_filter.xml
+SHA1-Digest: 2hjgynB17UxxSEA8MMIqtlGQEbs=
+
+Name: res/layout/warning.xml
+SHA1-Digest: erqM0pI2lZ4/vtKCRaoj5xt5nNU=
+
+Name: res/layout/entersourceictype.xml
+SHA1-Digest: ykYnlf+TNpKIp00Fp98MSfaNJxU=
+
+Name: res/layout/tablelayout.xml
+SHA1-Digest: 3SZkq40Q6Xm0e7N1JqvT2+bcfnk=
+
+Name: res/layout/entertargetictype.xml
+SHA1-Digest: iRo90E/mNuwL0w3XQ8nSB/dOhD4=
+
+Name: res/layout/dialog.xml
+SHA1-Digest: q58vLSNffNBlnZz8mWnnl/BpHUU=
+
+Name: res/layout/ch341.xml
+SHA1-Digest: E1qrVPHv0z2A/yEIGwhS7bYxYxM=
+
+Name: classes.dex
+SHA1-Digest: xMv9Bo5FOOqQxEweUHvIPHzsGeo=
+
+Name: res/layout/ic25xxx_series.xml
+SHA1-Digest: Xqjz6wCajH5j5wE3SrSwVu6wyFo=
+
+Name: res/drawable-xhdpi/ship2_3.png
+SHA1-Digest: hV3uBerFRbGe4XYqUuOjnqz5fF0=
+
+Name: res/layout/wbview.xml
+SHA1-Digest: 1pFlvNP2DVJWcDV6E8RdtLd7sro=
+
+Name: res/drawable-ldpi/ship2_3.png
+SHA1-Digest: Bb+jpr3ijZv94YLDCrf31UAMvU4=
+
+Name: res/menu/activity_action.xml
+SHA1-Digest: zBM3hRt1abqiH+ZqCifhJHjeuFc=
+
+Name: res/drawable-hdpi/ship2_3.png
+SHA1-Digest: H9SAV5Z7P4Pgw/2MlSxUkQm5dsE=
+

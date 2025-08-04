@@ -1,0 +1,41 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="title0">警告</string>
+    <string name="title1">警告</string>
+    <string name="title2">關於我們</string>
+    <string name="title3">離開</string>
+    <string name="baudrate_prompt">Baud rate</string>
+    <string name="databit_prompt">Data bits</string>
+    <string name="parity_prompt">Parity bit</string>
+    <string name="stopbit_prompt">Stop bits</string>
+    <string name="flow_prompt">FlowControl</string>
+    <string name="display_prompt">Display Format</string>
+    <string name="Setup">設定</string>
+    <string name="Send">傳送</string>
+    <string name="ClrScr">清屏</string>
+    <string name="Pause">暫停</string>
+    <string name="Wakeup">喚醒</string>
+    <string name="PulseCnt">PulseCnt</string>
+    <string name="Copy">拷貝</string>
+    <string name="EraseDelete">擦除/刪除</string>
+    <string name="DetectChip">辨認IC</string>
+    <string name="Service">服務</string>
+    <string name="Application">內建應用</string>
+    <string name="DIY">自己動手做</string>
+    <string name="Back">返回</string>
+    <string name="Next">下步</string>
+    <string name="Show">展示</string>
+    <string name="File">檔案</string>
+    <string name="OK">確定</string>
+    <string name="Cancel">取消</string>
+    <string name="Purpose">Flash functions\10 你想要做什麼?</string>
+    <string name="Purpose1">其他功能</string>
+    <string name="SelectSourceModel">選擇來源IC型式</string>
+    <string name="SelectTargetModel">Now,put your IC on the socket.\10選擇目標IC型式</string>
+    <string name="Temper">溫度</string>
+    <string name="CorrectTemper">修正溫度</string>
+    <string name="Refresh">擷取</string>
+    <string name="Emissivity">紅外放射率</string>
+    <string name="Unit">單位</string>
+    <string name="Laser">雷射</string>
+</resources>

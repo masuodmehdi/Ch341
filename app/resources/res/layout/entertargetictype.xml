@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android" android:orientation="vertical" android:layout_width="match_parent" android:layout_height="match_parent">
+    <Button android:id="@+id/targetic_back" android:layout_width="wrap_content" android:layout_height="wrap_content" android:text="@string/Back" android:hint=""/>
+    <TextView android:textSize="20sp" android:id="@+id/targetic_textView1" android:layout_width="wrap_content" android:layout_height="wrap_content" android:text="@string/SelectTargetModel"/>
+    <Button android:id="@+id/targetic_button1" android:layout_width="match_parent" android:layout_height="wrap_content" android:text="24xx" android:hint="24c01~24c64"/>
+    <Button android:id="@+id/targetic_button2" android:layout_width="match_parent" android:layout_height="wrap_content" android:text="25xxx" android:hint="25010~25128"/>
+    <Button android:id="@+id/targetic_button3" android:layout_width="match_parent" android:layout_height="wrap_content" android:text="file" android:hint="*.bin"/>
+</LinearLayout>

@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android" android:orientation="vertical" android:layout_width="match_parent" android:layout_height="match_parent">
+    <Button android:id="@+id/ic25_back" android:layout_width="wrap_content" android:layout_height="wrap_content" android:text="@string/Back" android:hint=""/>
+    <TableLayout android:layout_width="match_parent" android:layout_height="match_parent">
+        <TextView android:textSize="20sp" android:id="@+id/ic25_textView1" android:layout_width="wrap_content" android:layout_height="wrap_content" android:text="Choose one IC model"/>
+        <TextView android:textSize="20sp" android:id="@+id/ic25_textView2" android:layout_width="wrap_content" android:layout_height="wrap_content" android:text=""/>
+        <TableRow>
+            <Button android:id="@+id/ic25_button1" android:layout_width="match_parent" android:layout_height="wrap_content" android:text="25010" android:hint=""/>
+            <Button android:id="@+id/ic25_button2" android:layout_width="match_parent" android:layout_height="wrap_content" android:text="25020" android:hint=""/>
+            <Button android:id="@+id/ic25_button3" android:layout_width="match_parent" android:layout_height="wrap_content" android:text="25040" android:hint=""/>
+            <Button android:id="@+id/ic25_button4" android:layout_width="match_parent" android:layout_height="wrap_content" android:text="25080" android:hint=""/>
+        </TableRow>
+        <TableRow>
+            <Button android:id="@+id/ic25_button5" android:layout_width="match_parent" android:layout_height="wrap_content" android:text="25160" android:hint=""/>
+            <Button android:id="@+id/ic25_button6" android:layout_width="match_parent" android:layout_height="wrap_content" android:text="25320" android:hint=""/>
+            <Button android:id="@+id/ic25_button7" android:layout_width="match_parent" android:layout_height="wrap_content" android:text="25640" android:hint=""/>
+            <Button android:id="@+id/ic25_button8" android:layout_width="match_parent" android:layout_height="wrap_content" android:text="25128" android:hint=""/>
+        </TableRow>
+        <TableRow>
+            <Button android:id="@+id/ic25_button9" android:layout_width="match_parent" android:layout_height="wrap_content" android:text="25256" android:hint=""/>
+            <Button android:id="@+id/ic25_button10" android:layout_width="match_parent" android:layout_height="wrap_content" android:text="25512" android:hint=""/>
+            <Button android:id="@+id/ic25_button11" android:layout_width="match_parent" android:layout_height="wrap_content" android:text="25M01" android:hint=""/>
+            <Button android:id="@+id/ic25_button12" android:layout_width="match_parent" android:layout_height="wrap_content" android:text="25M02" android:hint=""/>
+        </TableRow>
+        <TableRow>
+            <Button android:id="@+id/ic25_button13" android:layout_width="match_parent" android:layout_height="wrap_content" android:text="25M04" android:hint=""/>
+            <Button android:id="@+id/ic25_button14" android:layout_width="match_parent" android:layout_height="wrap_content" android:text="25M08" android:hint=""/>
+            <Button android:id="@+id/ic25_button15" android:layout_width="match_parent" android:layout_height="wrap_content" android:text="25M16" android:hint=""/>
+            <Button android:id="@+id/ic25_button16" android:layout_width="match_parent" android:layout_height="wrap_content" android:text="25M32" android:hint=""/>
+        </TableRow>
+        <TableRow>
+            <Button android:id="@+id/ic25_button17" android:layout_width="match_parent" android:layout_height="wrap_content" android:text="25M64" android:hint=""/>
+            <Button android:id="@+id/ic25_button18" android:layout_width="match_parent" android:layout_height="wrap_content" android:text="25M128" android:hint=""/>
+        </TableRow>
+    </TableLayout>
+</LinearLayout>

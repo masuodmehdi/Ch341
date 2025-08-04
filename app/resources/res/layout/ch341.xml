@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android" android:orientation="vertical" android:layout_width="wrap_content" android:layout_height="match_parent">
+    <LinearLayout android:orientation="horizontal" android:layout_width="match_parent" android:layout_height="wrap_content"/>
+    <LinearLayout android:orientation="horizontal" android:layout_width="match_parent" android:layout_height="wrap_content">
+        <TableLayout android:layout_width="match_parent" android:layout_height="wrap_content" android:shrinkColumns="1,2,3,4,5">
+            <TableRow>
+                <Button android:id="@+id/Button02" android:background="#001f1f" android:layout_width="wrap_content" android:layout_height="wrap_content" android:layout_marginTop="10sp" android:text="@string/Setup"/>
+                <Button android:id="@+id/Button01" android:background="#001f1f" android:layout_width="wrap_content" android:layout_height="wrap_content" android:layout_marginTop="10sp" android:text="@string/Send"/>
+                <Button android:id="@+id/Button03" android:background="#001f1f" android:layout_width="wrap_content" android:layout_height="wrap_content" android:layout_marginTop="10sp" android:text="@string/ClrScr"/>
+                <Button android:id="@+id/Button04" android:background="#001f1f" android:layout_width="wrap_content" android:layout_height="wrap_content" android:layout_marginTop="10sp" android:text="@string/Pause"/>
+                <TextView android:id="@+id/intcount" android:layout_width="wrap_content" android:layout_height="wrap_content" android:layout_marginLeft="10sp" android:layout_marginTop="10sp" android:text="@string/PulseCnt" android:color="#ff0000"/>
+            </TableRow>
+        </TableLayout>
+    </LinearLayout>
+    <View android:background="@android:color/darker_gray" android:layout_width="match_parent" android:layout_height="1dp"/>
+    <ScrollView android:id="@+id/ScrollView01" android:scrollbars="vertical" android:layout_width="match_parent" android:layout_height="wrap_content" android:fillViewport="true">
+        <TextView android:textSize="18sp" android:textColor="#ffffffff" android:id="@+id/msg" android:layout_width="match_parent" android:layout_height="match_parent"/>
+    </ScrollView>
+</LinearLayout>

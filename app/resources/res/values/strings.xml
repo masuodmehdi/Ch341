@@ -1,0 +1,41 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="title0">Warning</string>
+    <string name="title1">Warning</string>
+    <string name="title2">About</string>
+    <string name="title3">Exit</string>
+    <string name="baudrate_prompt">Baud rate</string>
+    <string name="databit_prompt">Data bits</string>
+    <string name="parity_prompt">Parity bit</string>
+    <string name="stopbit_prompt">Stop bits</string>
+    <string name="flow_prompt">FlowControl</string>
+    <string name="display_prompt">Display Format</string>
+    <string name="Setup">Setup</string>
+    <string name="Send">Send</string>
+    <string name="ClrScr">ClrScr</string>
+    <string name="Pause">Pause</string>
+    <string name="Wakeup">Wakeup</string>
+    <string name="PulseCnt">PulseCnt</string>
+    <string name="Copy">Copy</string>
+    <string name="EraseDelete">Erase/Delete</string>
+    <string name="DetectChip">Detect Chip</string>
+    <string name="Service">Service</string>
+    <string name="Application">InnerApplication</string>
+    <string name="DIY">Do it Yourself</string>
+    <string name="Back">Back</string>
+    <string name="Next">Next</string>
+    <string name="Show">Show</string>
+    <string name="File">File</string>
+    <string name="OK">OK</string>
+    <string name="Cancel">Cancel</string>
+    <string name="Purpose">Flash functions\10 What\'s your purpose</string>
+    <string name="Purpose1">Other functions</string>
+    <string name="SelectSourceModel">Select your source IC model</string>
+    <string name="SelectTargetModel">Now,put your IC on the socket.\10Select your target IC model</string>
+    <string name="Temper">Temper</string>
+    <string name="CorrectTemper">CorrectTemper</string>
+    <string name="Refresh">Refresh</string>
+    <string name="Emissivity">IR Emissivity</string>
+    <string name="Unit">Unit</string>
+    <string name="Laser">Laser</string>
+</resources>

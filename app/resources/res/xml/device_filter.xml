@@ -1,0 +1,6 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources xmlns:android="http://schemas.android.com/apk/res/android">
+    <usb-device class="255" subclass="66" protocol="1"/>
+    <usb-device class="255" subclass="1" protocol="2"/>
+    <usb-device class="255" subclass="0" protocol="0"/>
+</resources>
